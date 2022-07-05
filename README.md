@@ -58,6 +58,8 @@ Website *-- HTMLDocument
 
 ## Adding Analysis
 
+![Adding Analysis](https://www.planttext.com/api/plantuml/svg/XLBRQiCm37tFLuW-3l878n2IiAQqISYbtQldQQsfSo5sHylOlyzM6bQ7mPuidIFf765noPI20xufeH6-F822wHF8dZDf8mD4lPJ8jUYxvwRS1c0hJQ1SQbtljd7FBorsEW0cJVSHbVVjUH59FFB_wbJw9h4w8PfHoiOBiGtxP1KVnM1vUXS5OSTF_HY05DrvGQMjCHQ0QCaVWBN8oIAfAgjg33x09E10DCD19a5Q3A0fKnYcfOoqvSM7uCpAawFwDY1nDHkFg6qAxwYqwAY6Q3CPkqkxR9y4qgnEoYpSpaaP5k5BGbdoUgVc0GyQKpFzH1urkoIh2GZBQ9tkf_Pz6YVvX3PnclykEFzTmKQ5exFx_NeEJ9uNJ7BbA0-Z8LryK-NP7t2DL-t0yrq--RvpGDx2ZUy7gw4VBf9fL2kdz0S0)
+
 ```plantuml
 class Website {
   Path localPath
